@@ -39,8 +39,6 @@ body{
 
 
 .backround{
-    width: 1300px;
-    height: 500px;
     text-align: center;
     background-image: url(../IMG/img_backround.png);
     background-repeat: no-repeat;
@@ -69,14 +67,12 @@ body{
     font-size: 36px;
     line-height: 49px;
     text-align: center;  
-    margin-top: 14px;
+    margin: 14px 0px 180px;
 }
 
 
 .description{
     background-color: rgba(26, 110, 136, 0.71);;
-    width: 1300px;
-    height: 532px;
     text-align: center;
 }
 
