@@ -101,36 +101,33 @@ body{
 }
 
 
-.text_regtangle::before{
-    content: "";
+.text_regtangle1{
     width: 178px;
     height: 121px;
     background-color: #BFDEFB;
     position: absolute;
-    top: -121px;
-    left: -370px;
-}
-
-
-.text_regtangle2::before{
-    content: "";
-    width: 178px;
-    height: 121px;
-    background-color: #BFDEFB;
-    position: absolute;
-    bottom: 65px;
+    top: -120px;
     left: -65px;
 }
 
 
-.text_regtangle::after{
-    content: "";
+.text_regtangle2{
     width: 178px;
     height: 121px;
     background-color: #BFDEFB;
     position: absolute;
-    top: 20px;
-    right: -370px;
+    bottom: 90px;
+    left: -65px;
+}
+
+
+.text_regtangle3{
+    width: 178px;
+    height: 121px;
+    background-color: #BFDEFB;
+    position: absolute;
+    bottom: 195px;
+    right: -65px;
 }
 
 
